@@ -1,0 +1,21 @@
+{
+  "name": "i23-world",
+  "version": "1.0.0",
+  "private": true,
+  "description": "i23-world",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^5.14.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
